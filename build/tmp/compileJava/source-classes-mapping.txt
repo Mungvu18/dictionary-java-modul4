@@ -1,0 +1,8 @@
+config/AppInit.java
+ config.AppInit
+service/DictionaryService.java
+ service.DictionaryService
+config/AppConfiguration.java
+ config.AppConfiguration
+controller/DictionaryController.java
+ controller.DictionaryController
